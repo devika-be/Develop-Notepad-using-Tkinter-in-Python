@@ -1,5 +1,5 @@
 # Develop-Notepad-using-Tkinter-in-Python
-Develop Notepad using Tkinter in python
+Project : Develop Notepad using Tkinter in python
 
 **What is Tkinter?**
 
